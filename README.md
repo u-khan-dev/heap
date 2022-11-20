@@ -5,3 +5,5 @@ This repository accompanies my video on the heap data structure on YouTube, whic
 Alternatively, my YouTube handle is @codestarrunner (channel: http://www.youtube.com/@codestarrunner).
 
 Direct link to the heap video: 
+
+https://www.youtube.com/watch?v=1ot_5p4eP_c
